@@ -14,7 +14,7 @@ Through a visual interface the user can plot an Area of Interest (AOI) and save 
 - Flask (python)
 
 ## Front end
-- javascript
+- JavaScript
 - CSS/HTML
 
 
