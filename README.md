@@ -7,7 +7,7 @@ Through a visual interface the user can plot an Area of Interest (AOI) and save 
 
 ## Layout
 <img src="https://github.com/ribeirocv/classifiertool/blob/main/Inicial%20page%20-%20Login%20dialogue%20box.png">
-<img src="https://github.com/ribeirocv/classifiertool/blob/main/Screenshot Matching Cells Trajectory 6.png">
+<img src="https://github.com/ribeirocv/classifiertool/blob/main/Screenshot%20Matching%20Cells%20Trajectory%206.png">
 
 # Technologies applied
 ## Back end
