@@ -6,7 +6,7 @@ The INSTRUCTOR is an academic development tool to provide an environment for the
 Through a visual interface the user can plot an Area of Interest (AOI) and save it for further loading. After that, it is possible to generate a grid of cells to map this AOI in order to analyze vessels trajectories with clustering algorithms using recorded data from Automatic Information System (AIS) transmissions.
 
 ## Layout
-<img src="https://github.com/ribeirocv/classifiertool/Inicial%20page%20-%20Login%20dialogue%20box.png"> 
+<img src="https://github.com/ribeirocv/classifiertool/main/Inicial%20page%20-%20Login%20dialogue%20box.png"> 
 
 # Technologies applied
 ## Back end
